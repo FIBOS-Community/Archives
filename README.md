@@ -2,4 +2,4 @@
 
 ### 当前稳定版
 
-当前最新版本 [v1.7.1.7](https://github.com/FIBOS-Community/Archives/releases/tag/v1.7.1.7)
+当前最新版本 [v1.7.1.8](https://github.com/FIBOS-Community/Archives/releases/tag/v1.7.1.8)
